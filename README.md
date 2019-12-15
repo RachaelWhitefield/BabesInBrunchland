@@ -31,7 +31,7 @@ Team Members:
 
 ~Get to know us ~
 
-- Rachael W 
+- Rachael Whitefield 
 https://github.com/RachaelWhitefield
 
 -Genevieve DePriest 
